@@ -1,5 +1,7 @@
 M.Sc. in Applied Physics and Mathematics at NTNU Norway. 
 
+-------------------------------------------------------
+
 I work with analysis pipelines for Particle-collider-data
 
 Here you can find my projects in data analysis and computational physics.
