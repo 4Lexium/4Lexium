@@ -1,5 +1,6 @@
-## Hi there 👋
-
+M.Sc. in Applied Physics and Mathematics at NTNU Norway. 
+Here you can find my projects in computational physics
+You can also reach me by: alexander.dm.umanky@gmail.com 
 <!--
 **4Lexium/4Lexium** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
