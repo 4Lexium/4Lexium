@@ -1,6 +1,8 @@
 M.Sc. in Applied Physics and Mathematics at NTNU Norway. 
-I work with developing analysis pipelines for collider-experiment data in Particle Physics research 
-Here you can find my projects in computational physics
+
+I work with analysis pipelines for Particle-collider-data
+
+Here you can find my projects in data analysis and computational physics.
 
 You can also reach me by: alexander.dm.umanky@gmail.com 
 <!--
