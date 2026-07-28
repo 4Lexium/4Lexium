@@ -6,7 +6,7 @@ I work with analysis pipelines for Particle-collider-data
 
 Here you can find my projects in data analysis and computational physics.
 
-You can also reach me by: alexander.dm.umanky@gmail.com 
+You can also contact me on: alexander.dm.umanky@gmail.com 
 <!--
 **4Lexium/4Lexium** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
